@@ -1,0 +1,10 @@
+button {
+    background: green;
+    border: 1px solid black;
+    color: ghostwhite;
+}
+
+div {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
